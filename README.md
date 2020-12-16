@@ -1,4 +1,4 @@
-# Rock Paper Scissors with Python
+# online second-hand transaction store, OWLET with HTML
 
 OWLET is the online second-hand transaction store that is designed with html. Feel free to browse through in this small online shop!
 
